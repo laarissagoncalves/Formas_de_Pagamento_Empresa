@@ -1,0 +1,15 @@
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Formas_de_Pagamento\obj\Debug\net6.0\Formas_de_Pagamento.csproj.AssemblyReference.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Formas_de_Pagamento\obj\Debug\net6.0\Formas_de_Pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Formas_de_Pagamento\obj\Debug\net6.0\Formas_de_Pagamento.AssemblyInfoInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Formas_de_Pagamento\obj\Debug\net6.0\Formas_de_Pagamento.AssemblyInfo.cs
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Formas_de_Pagamento\obj\Debug\net6.0\Formas_de_Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Formas_de_Pagamento\bin\Debug\net6.0\Formas_de_Pagamento.exe
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Formas_de_Pagamento\bin\Debug\net6.0\Formas_de_Pagamento.deps.json
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Formas_de_Pagamento\bin\Debug\net6.0\Formas_de_Pagamento.runtimeconfig.json
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Formas_de_Pagamento\bin\Debug\net6.0\Formas_de_Pagamento.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Formas_de_Pagamento\bin\Debug\net6.0\ref\Formas_de_Pagamento.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Formas_de_Pagamento\bin\Debug\net6.0\Formas_de_Pagamento.pdb
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Formas_de_Pagamento\obj\Debug\net6.0\Formas_de_Pagamento.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Formas_de_Pagamento\obj\Debug\net6.0\ref\Formas_de_Pagamento.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Formas_de_Pagamento\obj\Debug\net6.0\Formas_de_Pagamento.pdb
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Formas_de_Pagamento\obj\Debug\net6.0\Formas_de_Pagamento.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Formas_de_Pagamento/1.0.0": {
+        "runtime": {
+          "Formas_de_Pagamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Formas_de_Pagamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
